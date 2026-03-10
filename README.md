@@ -1,16 +1,31 @@
-## Hi there 👋
+# Ahmed Wael
+Data Engineering Student | Python | SQL | Airflow | dbt | Snowflake
 
-<!--
-**Ahmedwael12345/Ahmedwael12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Helwan National University focused on building data pipelines and scalable data platforms.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Apache Airflow
+- dbt
+- Snowflake
+- Docker
+- Web Scraping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Data Pipeline with Airflow + dbt + Snowflake
+End-to-end ELT pipeline orchestrated with Airflow.
+
+Tech:
+Python, Airflow, dbt, Snowflake, Docker
+
+### Web Scraping Data Pipeline
+Automated scraper collecting product data and loading it into PostgreSQL.
+
+Tech:
+Python, Scrapy, PostgreSQL, Docker
+
+## Contact
+Email: ahmedwaelgalal2@gmail.com  
+LinkedIn: www.linkedin.com/in/ahmed-wael-galal
