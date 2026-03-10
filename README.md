@@ -135,19 +135,6 @@ Dim_Date
 Project:
 [PROJECT_LINK_3](https://github.com/Ahmedwael12345/sql-data-warehouse-project)
 
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmedwael12345&show_icons=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedwael12345&layout=compact">
-
-</p>
-
----
 
 # Resume
 
