@@ -15,7 +15,7 @@ Data Engineering Student • Building Production-Style Data Pipelines
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="YOUR_CV_LINK">
+<a href="https://drive.google.com/file/d/1gF8-OvrPkZLH8w3BTiHwECZ9cA13BHFW/view?usp=sharing">
 <img src="https://img.shields.io/badge/Download-CV-green?style=for-the-badge">
 </a>
 </p>
